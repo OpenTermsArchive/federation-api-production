@@ -1,0 +1,13 @@
+{
+  "name": "ota-federation-api-deployment",
+  "version": "1.0.0",
+  "type": "module",
+  "license": "AGPL-3.0",
+  "description": "Open Terms Archive Federation API deployment",
+  "scripts": {
+    "start": "ota-federation-api serve"
+  },
+  "dependencies": {
+    "@opentermsarchive/federation-api": "~2.1.0"
+  }
+}

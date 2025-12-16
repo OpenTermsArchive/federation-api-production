@@ -1,0 +1,9 @@
+{
+  "@opentermsarchive/federation-api": {
+    "port": 3333,
+    "basePath": "/federation-api",
+    "logger": {
+      "timestampPrefix": false
+    }
+  }
+}
