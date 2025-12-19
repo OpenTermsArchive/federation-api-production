@@ -3,5 +3,5 @@ all:
   hosts:
      162.19.74.224:
       ansible_user: ota
-      ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAIJkjE1KIbUcoClK+iKLR5ZvmdXMD/eXWghHdenFeJz4c
+      ed25519_fingerprint: AAAAC3NzaC1lZDI1NTE5AAAAIGcuX6/msM3RT3HHnZ22fC+zgqucPIoZbnnZ5cLEztYV
       ota_federation_api_instance_repository: https://github.com/OpenTermsArchive/federation-api-deployment.git
